@@ -1,0 +1,118 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+table , tbody, tr, td{
+    border-width: 1px !important;
+}
+form {
+    width: 100%;
+    margin-top: 30px;
+}
+
+    form .wrapInput {
+        width: 100%;
+        float: left;
+        display: flex;
+    }
+
+        form .wrapInput .label-ip {
+            width: 100%;
+            float: left;
+            margin-top: 25px;
+        }
+
+        form .wrapInput input {
+            width: 100%;
+            float: left;
+            padding: 8px 10px;
+            border-radius: 6px;
+            border: 1px solid #acada8;
+            margin-top: 10px;
+            max-width: none;
+        }
+
+#customer form .wrapInput .box-password {
+    width: 100%;
+    float: left;
+    position: relative;
+    margin-top: 10px;
+}
+
+    #customer form .wrapInput .box-password input {
+        margin-top: 0;
+    }
+
+form .wrapInput .validate-error {
+    width: 100%;
+    float: left;
+    font-size: 14px;
+    color: #d4450d;
+    margin-top: 5px;
+}
+
+#customer form .wrapInput .box-password .material-symbols-outlined {
+    position: absolute;
+    width: 25px;
+    right: 15px;
+    transform: translateY(-50%);
+    top: 50%;
+    cursor: pointer
+}
+
+form .box-submit {
+    width: 100%;
+    float: left;
+    padding-left: 15px;
+    margin-top: 20px;
+}
+
+
+
+    form .box-submit button {
+        padding: 10px 20px;
+        color: #0243f5;
+        border-radius: 6px;
+        border: none;
+    }
+
+@media(min-width: 1200px) {
+    .body-content {
+        width: calc(100% - 100px);
+        max-width: none !important;
+    }
+
+    .container-list {
+        width: calc(100% - 100px);
+    }
+}
+
+.wrapper-list {
+    width: 100%;
+}
+
+    .wrapper-list table {
+        width: 100%;
+    }
+
+        .wrapper-list table thead td {
+            text-align: center
+        }
+
+        .wrapper-list table tbody td {
+            text-align: center
+        }
