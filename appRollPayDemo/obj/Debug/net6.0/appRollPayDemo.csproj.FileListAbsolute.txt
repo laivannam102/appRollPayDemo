@@ -36,3 +36,4 @@ C:\Users\H-aky Computer\source\repos\appRollPayDemo\appRollPayDemo\obj\Debug\net
 C:\Users\H-aky Computer\source\repos\appRollPayDemo\appRollPayDemo\obj\Debug\net6.0\appRollPayDemo.pdb
 C:\Users\H-aky Computer\source\repos\appRollPayDemo\appRollPayDemo\obj\Debug\net6.0\appRollPayDemo.genruntimeconfig.cache
 C:\Users\H-aky Computer\source\repos\appRollPayDemo\appRollPayDemo\obj\Debug\net6.0\ref\appRollPayDemo.dll
+C:\Users\H-aky Computer\source\repos\appRollPayDemo\appRollPayDemo\obj\Debug\net6.0\appRollPayDemo.sourcelink.json

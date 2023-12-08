@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("appRollPayDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d4b39b89ff2acebdf2f87062119774b2244cd11")]
 [assembly: System.Reflection.AssemblyProductAttribute("appRollPayDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("appRollPayDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

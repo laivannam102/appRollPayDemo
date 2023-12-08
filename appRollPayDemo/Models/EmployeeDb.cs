@@ -6,7 +6,7 @@ namespace appRollPayDemo.Models
 {
     public class EmployeeDb
     {
-        string connectionString = "Data Source=DESKTOP-10BIGUJ\\MSSQLSERVER1;Initial Catalog=PayrollDbApplication;Integrated Security=True";
+        string connectionString = "Data Source=192.168.217.136;Initial Catalog=PayrollDbApplication;Persist Security Info=True;User ID=sa;Password='Maiyeuminhem102@'";
 
         public List<Employee> ListAll()
         {
